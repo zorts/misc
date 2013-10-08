@@ -1,0 +1,9 @@
+1000 coins flipped 10 times, repeated 100000 times.
+ vOne  = 0.500238
+ vRand = 0.50024
+ vMin  = 0.037585
+
+1000 coins flipped 10 times, repeated 100000 times.
+ vOne  = 0.500276
+ vRand = 0.499822
+ vMin  = 0.037505
